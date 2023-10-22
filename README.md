@@ -1,5 +1,6 @@
-### Welcome to Meng Chen's Github 👋
+# Welcome to Meng Chen's Github 👋
 
+----
 <!--
 **biomchen/biomchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
