@@ -15,7 +15,7 @@ I am a Data Scientist with a PhD in Evolutionary Biology from the Unviersity of 
 <a href="https://www.github.com/biomchen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/biomchen?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 #### Skills
-[![Skills](https://skillicons.dev/icons?i=py,mysql,pytorch,aws,azure,gcp,jenkins,flask,fastapi,git,vscode,docker,django,r,linux,bash&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,mysql,pytorch,aws,azure,gcp,jenkins,flask,fastapi,git,vscode,docker,django,r,linux)](https://skillicons.dev)
 
 #### GitHub Stats
 <p float="left">
@@ -25,6 +25,6 @@ I am a Data Scientist with a PhD in Evolutionary Biology from the Unviersity of 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biomchen&langs_count=3&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height=130 />
 </p>
   
-[![Meng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=biomchen&theme=github)](https://github.com/biomchen/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biomchen&theme=github" with=800 />
 
 * 🖥️ You can find me at [LinkedIn profile](https://www.linkedin.com/in/mlchen/)  
