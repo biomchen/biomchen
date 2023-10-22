@@ -3,14 +3,14 @@
 ### Introduction
 I am a Data Scientist with a PhD in Evolutionary Biology, specializing in modeling evolutionary ecology of mammalian community through time. As a data scientist, I am interested in finding business insight by implementing cutting-edge machine learning techniques and GenAI and building products in different scales to execute actionable recommendations for a variety of businesses.    
 
-<a href="https://www.github.com/biomchen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/biomchen?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
-
 * 🔭 I’m currently working on LLM implementaion in enterprise scales
 * 🧠 List of side projects I'm working on:
   * Serving Large language models with APIs
   * Fine tuning embedding models
   * Parameterization efficiency fine tuning LLMs
   * Reinforcement Learning from Human Feedback
+
+<a href="https://www.github.com/biomchen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/biomchen?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 #### Skills
 [![Skills](https://skillicons.dev/icons?i=py,pytorch,aws,azure,gcp,jenkins,mysql,flask,fastapi,git,github,vscode,docker,django,latex,linux,bash,powershell,tensorflow,postgres,r)](https://skillicons.dev)
