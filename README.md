@@ -1,13 +1,15 @@
 # Welcome to Meng Chen's Github 
 
 ### Introduction
+
+* 🖥️ See my [LinkedIn profile](https://www.linkedin.com/in/mlchen/)
 * 🔭 I’m currently working on LLM implementaion in enterprise scale.
 * 🧠 List of project I'm working on
   * Large language model serving
   * Fine tuning the embedding models
   * Parameterization efficiency fine tuning LLMs
   * Reinforcement Learning from Human Feedback
-* 🖥️  See my [LinkedIn profile](https://www.linkedin.com/in/mlchen/)
+   
 
 <a href="https://www.github.com/biomchen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/biomchen?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
