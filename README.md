@@ -17,7 +17,7 @@ I am a Data Scientist with a PhD in Evolutionary Biology from the Unviersity of 
 #### Skills
 [![Skills](https://skillicons.dev/icons?i=py,pytorch,aws,azure,gcp,jenkins,mysql,flask,fastapi,git,github,vscode,docker,django,latex,linux,bash,powershell,tensorflow,postgres,r)](https://skillicons.dev)
 
-#### My GitHub Stats
+#### GitHub Stats
 <p float="left">
  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=biomchen&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="status" height=130 />
