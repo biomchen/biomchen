@@ -1,4 +1,4 @@
-# Welcome to Meng Chen's Github <a href="https://www.github.com/biomchen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/keyoumao?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+# Welcome to Meng Chen's Github 
 
 ### Introduction
 * 🔭 I’m currently working on LLM implementaion in enterprise scale.
@@ -8,7 +8,7 @@
   * Parameterization efficiency fine tuning LLMs
   * Reinforcement Learning from Human Feedback 
 
-
+<a href="https://www.github.com/biomchen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/biomchen?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 <b>My GitHub Stats</b>
 
