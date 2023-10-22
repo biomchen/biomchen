@@ -15,7 +15,7 @@ I am a Data Scientist with a PhD in Evolutionary Biology from the Unviersity of 
 <a href="https://www.github.com/biomchen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/biomchen?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 #### Skills
-[![Skills](https://skillicons.dev/icons?i=py,pytorch,aws,azure,gcp,jenkins,mysql,flask,fastapi,git,github,vscode,docker,django,latex,linux,bash,powershell,tensorflow,postgres,r)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,pytorch,aws,azure,gcp,jenkins,mysql,flask,fastapi,git,vscode,docker,django,linux,bash,tensorflow)](https://skillicons.dev)
 
 #### GitHub Stats
 <p float="left">
