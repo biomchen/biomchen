@@ -1,7 +1,7 @@
 # Welcome to AI/GenAI Hub
 
 ### Introduction
-I am a Data Scientist with a PhD in Evolutionary Biology, specializing in modeling evolutionary ecology of mammalian community through time. As a data scientist, I am interested in finding business insight by implementing cutting-edge machine learning techniques and GenAI and building products in different scales to execute actionable recommendations for a variety of businesses.
+I am a Data Scientist with a PhD in Evolutionary Biology, specializing in modeling evolutionary ecology of mammalian community through time. As a data scientist, I am interested in finding business insight by implementing cutting-edge machine learning techniques and GenAI and building products in different scales to execute actionable recommendations for a variety of businesses.    
 <a href="https://www.github.com/biomchen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/biomchen?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 * 🔭 I’m currently working on LLM implementaion in enterprise scales
 * 🧠 List of side projects I'm working on:
