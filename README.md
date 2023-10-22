@@ -1,27 +1,14 @@
-# Welcome to Meng Chen's Github 👋
+# Welcome to Meng Chen's Github <a href="https://www.github.com/biomchen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/keyoumao?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
-----
-<!--
-**biomchen/biomchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### Introduction
 * 🔭 I’m currently working on LLM implementaion in enterprise scale.
 * 🧠 List of project I'm working on
   * Large language model serving using Fastapi
   * Fine tuning the embedding models
   * Parameterization efficiency fine tuning LLMs
   * Reinforcement Learning from Human Feedback 
+
+
 
 <b>My GitHub Stats</b>
 
