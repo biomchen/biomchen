@@ -1,14 +1,16 @@
 # Welcome to AI / GenAI Hub
 
 ### Introduction
-I am a Data Scientist with a PhD in Evolutionary Biology, specializing in modeling evolutionary ecology of mammalian community through time. As a data scientist, I am interested in finding business insight by implementing cutting-edge machine learning techniques and GenAI and building products in different scales to execute actionable recommendations for a variety of businesses.    
+I am a Data Scientist with a PhD in Evolutionary Biology from the Unviersity of Washington, Seattle. As a data scientist, I am interested in finding business insight by implementing cutting-edge machine learning techniques and GenAI and building products in different scales to execute actionable recommendations for a variety of businesses.    
 
-* 🔭 I’m currently working on LLM implementaion in enterprise scales
-* 🧠 List of side projects I'm working on:
+* 🔭 I’m currently working on LLM implementaions in a variety of scales
+* 🧠 Some GenAI-related projects I'm working on:
   * Serving Large language models with APIs
   * Fine tuning embedding models
   * Parameterization efficiency fine tuning LLMs
   * Reinforcement Learning from Human Feedback
+* ⚡ Highlighted Projects
+  * Complaint Loss Detector https://github.com/biomchen/complaint_loss_detector
 
 <a href="https://www.github.com/biomchen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/biomchen?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
