@@ -1,7 +1,7 @@
 # Welcome to my github 
 
 ### Introduction
-I am a Data Scientist with a PhD in Evolutionary Biology, specializing in modeling evolutionary ecology of mammalian community through time. As a data scientist, I am interested in finding business insight by implementing cutting-edge machine learning techniques and GenAI and building products to execute actionable recommendations for a variety of businesses.
+I am a Data Scientist with a PhD in Evolutionary Biology, specializing in modeling evolutionary ecology of mammalian community through time. As a data scientist, I am interested in finding business insight by implementing cutting-edge machine learning techniques and GenAI and building products in different scales to execute actionable recommendations for a variety of businesses.
 
 * 🔭 I’m currently working on LLM implementaion in enterprise scale.
 * 🧠 List of project I'm working on
