@@ -1,7 +1,7 @@
 # Welcome to AI / GenAI Hub
 
 ### Introduction
-I am a Data Scientist with a PhD in Evolutionary Biology from the Unviersity of Washington, Seattle. As a data scientist, I am interested in finding business insight by implementing cutting-edge machine learning techniques and GenAI and building products in different scales to execute actionable recommendations for a variety of businesses.    
+I am a Data Scientist with a PhD in Evolutionary Biology from the University of Washington, Seattle. As a data scientist, I am interested in finding business insight by implementing cutting-edge machine learning techniques and GenAI and building products in different scales to execute actionable recommendations for a variety of businesses.    
 
 * 🔭 I’m currently working on LLM implementaions in a variety of scales
 * 🧠 Some GenAI-related tasks I'm working on:
