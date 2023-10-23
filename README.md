@@ -10,7 +10,8 @@ I am a Data Scientist with a PhD in Evolutionary Biology from the Unviersity of 
   * Parameterization efficiency fine tuning Open Source LLMs (e.g., *Llama-2-7b* & *Llama-2-13b*)
   * Reinforcement Learning from Human Feedback
 * ⚡ Highlighted Projects
-  * Complaint Loss Detector https://github.com/biomchen/complaint_loss_detector
+  * One-stop ChatBot implementation using CoT, RAG, and Relatonal DB (NLU, GenAI)
+  * Complaint Loss Detector (NLP) https://github.com/biomchen/complaint_loss_detector
 
 <a href="https://www.github.com/biomchen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/biomchen?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
