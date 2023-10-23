@@ -5,7 +5,7 @@ I am a Data Scientist with a PhD in Evolutionary Biology from the University of 
 
 * 🔭 I’m currently working on LLM implementaions in a variety of scales
 * 🧠 Some GenAI-related tasks I'm working on:
-  * Serving Large language models with APIs
+  * Serving LLMs with APIs
   * Fine tuning embedding models (e.g., *bge-large-en-1.5*)
   * Parameterization efficiency fine tuning Open Source LLMs (e.g., *Llama-2-7b* & *Llama-2-13b*)
   * Reinforcement Learning from Human Feedback
