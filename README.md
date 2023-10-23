@@ -25,6 +25,6 @@ I am a Data Scientist with a PhD in Evolutionary Biology from the Unviersity of 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biomchen&langs_count=3&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height=130 />
 </p>
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=biomchen&theme=github" width=830 />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biomchen&theme=github" width=825 />
 
 * 🖥️ You can find me at [LinkedIn profile](https://www.linkedin.com/in/mlchen/)  
